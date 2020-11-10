@@ -1,0 +1,48 @@
+.wrapper {
+width: 100%;
+height: 100%;
+position: absolute;
+top: 0;
+left: 0;
+overflow: auto;
+}
+.header {
+background-color:#87509c;
+width: 100%;
+  height: 596px;
+}
+.header_logo {
+margin-top: 57px;
+margin-left: 211px;
+}
+ul {
+list-style-type: none;
+float: right;
+margin-top: 62px;
+margin-right: 195px;
+}
+li {
+margin-right: 100px;
+display: inline;
+}
+.header_menu_text {
+display: inline-flex;
+position: relative;
+  text-decoration: none;
+  color: white;
+ font-family: 'Titillium Web', sans-serif;
+ font-size: 20px;
+}
+.header_menu_text:hover {
+text-decoration: underline;
+text-decoration-color:#643a79;
+}
+.content_text {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 35px;  
+}
+.header_text_button {
+  padding-top: 167px;
+  padding-left: 300px;
+
+}
