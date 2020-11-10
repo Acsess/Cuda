@@ -31,7 +31,7 @@ position: relative;
   text-decoration: none;
   color: white;
  font-family: 'Titillium Web', sans-serif;
- font-size: 20px;
+ font-size: 100%;
 }
 .header_menu_text:hover {
 text-decoration: underline;
@@ -39,7 +39,7 @@ text-decoration-color:#643a79;
 }
 .content_text {
     font-family: 'Titillium Web', sans-serif;
-    font-size: 35px;  
+    font-size: 225%;  
 }
 .header_text_button {
   padding-top: 167px;
